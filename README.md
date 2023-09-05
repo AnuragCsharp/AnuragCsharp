@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://firebasestorage.googleapis.com/v0/b/foodinbox-test.appspot.com/o/Github%2FContribution.gif" alt="Contribution Image">
+
 
 ###
