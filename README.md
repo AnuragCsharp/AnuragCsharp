@@ -2,8 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+  ![giphy 1](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a) 
 
 ###
 
