@@ -50,7 +50,7 @@
 
 ###
 
-![Contribution](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/1511a4c8-c6d7-4384-9afa-a4b82c9975c3)
+   ![Contribution](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/1511a4c8-c6d7-4384-9afa-a4b82c9975c3)
 
 
 ###
