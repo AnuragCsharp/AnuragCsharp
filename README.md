@@ -1,4 +1,4 @@
-<h2 align="left">: "Hi 👋! I'm Anurag Sen, a passionate software developer with expertise in Unity 3D, Digital Twin, XR, Flutter, Metaverse, DevOps, and Azure." </h2>
+<h2 align="left"> "Hi 👋! I'm Anurag Sen, a passionate software developer with expertise in Unity 3D | Digital Twin | XR | AR | VR |  Flutter | Metaverse | DevOps | Azure." </h2>
 
 ###
 
