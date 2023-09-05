@@ -50,9 +50,7 @@
 
 ###
 
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Contribution](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/1511a4c8-c6d7-4384-9afa-a4b82c9975c3)
 
 
 ###
