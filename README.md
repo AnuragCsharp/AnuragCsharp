@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anurag Sen and I posses Unity 3D | Digital Twin | XR | Flutter | Metaverse | DevOps | Azure (Many more..) Skills /h2>
+<h2 align="left">Hi 👋! My name is Anurag Sen and I posses Unity 3D | Digital Twin | XR | Flutter | Metaverse | DevOps | Azure (Many more..) Skills </h2>
 
 ###
 
