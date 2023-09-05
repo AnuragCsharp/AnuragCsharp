@@ -4,6 +4,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+
 ###
 
 <div align="left">
@@ -50,9 +51,9 @@
 
 ###
 
-<br clear="both">
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-<img src="https://firebasestorage.googleapis.com/v0/b/foodinbox-test.appspot.com/o/Github%2FContribution.gif" alt="Contribution Image">
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 
 ###
