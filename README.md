@@ -55,7 +55,7 @@
 
 ###
 
- ![ninjala-jane](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/f1e64672-910d-4cac-bfe7-3631ceaade2b) ![ninjala-jane](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/f1e64672-910d-4cac-bfe7-3631ceaade2b)
+ ![ninjala-jane](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/f1e64672-910d-4cac-bfe7-3631ceaade2b) 
 
 
 ###
