@@ -2,7 +2,7 @@
 
 ###
 
-  ![giphy 1](https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a) 
+  <img align="right" width="150" height="150" src="https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a" alt="giphy 1" />
 
 ###
 
