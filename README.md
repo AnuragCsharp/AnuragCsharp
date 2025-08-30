@@ -3,21 +3,22 @@
 
 <img align="right" width="200" height="200" src="https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a" alt="profile gif" />
 
-### ⚡ Tech Stack (Horizontal — guaranteed)
-<table align="center">
+### ⚡ Tech Stack
+<table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="Android" title="Android" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" title="Git" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /></td>
   </tr>
 </table>
+
 
 ---
 
