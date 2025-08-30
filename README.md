@@ -4,20 +4,19 @@
 <img align="right" width="200" height="200" src="https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a" alt="profile gif" />
 
 ### ⚡ Tech Stack
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="Android" title="Android" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" title="Git" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&labelColor=239120&style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+</p>
+
 
 
 ---
