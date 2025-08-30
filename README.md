@@ -5,8 +5,8 @@
 
 <img align="right" width="200" height="200" src="https://github.com/AnuragCsharp/AnuragCsharp/assets/77142556/78bdba24-d082-4dd4-8f63-5a1d42823e2a" alt="profile gif" />
 
-### 🛠️ Tech Stack
-<p align="left">
+### ⚡ Tech Stack
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
@@ -22,7 +22,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anurag-sen/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
@@ -40,9 +40,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragCsharp&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragCsharp&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragCsharp&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragCsharp&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
