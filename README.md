@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/anurag-sen/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/Anurag.hacker/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/Anurag.hacker2/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/channel/UCX1GdXi8a6WsrVVs1LOXDHw" target="_blank" rel="noopener noreferrer">
